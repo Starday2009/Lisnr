@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Acceptance test suite">
+    <parameter name="Device" value="iPhone 7"></parameter>
+
+    <test name="Seller Dont Allow Mic Test">
+        <classes>
+            <class name="Lisnr.Project.Point.SellerDontAllowMicTest"/>
+        </classes>
+    </test>
+
+    <test name="BuyerAllowMicButNotReadyToPay">
+        <classes>
+            <class name="Lisnr.Project.Point.BuyerAllowMicButNotReadyToPay"/>
+        </classes>
+    </test>
+
+    <test name="Buyer Denies Mic Permission Test">
+        <classes>
+            <class name="Lisnr.Project.Point.BuyerDeniesMicPermissionTest"/>
+        </classes>
+    </test>
+
+    <test name="Buyer Dont Allow Mic Test">
+        <classes>
+            <class name="Lisnr.Project.Point.BuyerDontAllowMicTest"/>
+        </classes>
+    </test>
+
+    <test name="Buyer Dont Start Transactions Test">
+        <classes>
+            <class name="Lisnr.Project.Point.BuyerDontStartTransactionsTest"/>
+        </classes>
+    </test>
+
+    <test name="Buyer Not Ready To Pay And Allow Mic Test">
+        <classes>
+            <class name="Lisnr.Project.Point.BuyerNotReadyToPayAndAllowMicTest"/>
+        </classes>
+    </test>
+
+
+</suite>

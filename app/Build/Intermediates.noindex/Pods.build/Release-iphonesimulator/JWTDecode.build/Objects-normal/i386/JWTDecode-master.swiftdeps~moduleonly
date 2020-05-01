@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "0d4f2f7b517503115f5fbae01220c26e"
+build_time: [1586173940, 820588000]
+inputs:
+  "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/Pods/JWTDecode/JWTDecode/A0JWT.swift": [9223372036, 854775807]
+  "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/Pods/JWTDecode/JWTDecode/Errors.swift": [9223372036, 854775807]
+  "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/Pods/JWTDecode/JWTDecode/JWT.swift": [9223372036, 854775807]
+  "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/Pods/JWTDecode/JWTDecode/JWTDecode.swift": [9223372036, 854775807]
+  "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/Pods/JWTDecode/JWTDecode/TokenValidators.swift": [9223372036, 854775807]
+  "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/Pods/JWTDecode/JWTDecode/ValidationError.swift": [9223372036, 854775807]
+  "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/Pods/JWTDecode/JWTDecode/ValidatorJWT.swift": [9223372036, 854775807]

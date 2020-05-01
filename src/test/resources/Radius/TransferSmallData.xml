@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Transfer small data value test" parallel="tests" thread-count="2">
+
+<test name="Assert Transfer small data value: Listen">
+    <parameter name="URL" value="http://localhost:4723/wd/hub"/>
+    <parameter name="wdaLocalPort" value="8100"/>
+    <parameter name="deviceName" value="iPhone 7"/>
+    <parameter name="platformVersion" value="12.2"/>
+    <classes>
+        <class name="Lisnr.Project.Radius.StartListenTest"/>
+    </classes>
+</test>
+
+<test name="Transfer small data value: Broadcasting">
+    <parameter name="wdaLocalPort" value="8101"/>
+    <parameter name="deviceName" value="iPhone 8"/>
+    <parameter name="platformVersion" value="12.2"/>
+    <parameter name="URL" value="http://localhost:4724/wd/hub"/>
+    <classes>
+        <class name="Lisnr.Project.Radius.BroadcastingSmallDataTest"/>
+    </classes>
+</test>
+
+</suite>

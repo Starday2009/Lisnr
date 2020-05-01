@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Acceptance test suite" parallel="methods" thread-count="2">
+    <test name="Buyer Start Record Test" group-by-instances="true">
+        <classes>
+<!--            <class name="Lisnr.Project.Point.BuyerStartRecordTest"/>-->
+            <class name="Lisnr.Project.BaseTest"/>
+        </classes>
+    </test>
+</suite>

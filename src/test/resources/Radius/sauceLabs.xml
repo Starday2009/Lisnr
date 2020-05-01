@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Transfer small text value test" parallel="tests" thread-count="2">
+
+    <parameter name="URL"
+               value="https://oksiandra:df07d5fe-b45f-4985-9bc7-f60116ff64ef@ondemand.eu-central-1.saucelabs.com:443/wd/hub"/>
+    <parameter name="testType" value="saucelabs"/>
+    <parameter name="jobName" value="Assert transfer small text value"/>
+    <parameter name="deviceName" value="iPhone X Simulator"/>
+
+    <test name="Assert transfer small text value: listen">
+        <classes>
+            <class name="Lisnr.Project.Radius.StartListenTest"/>
+            <parameter name="wdaLocalPort" value="8101"/>
+        </classes>
+    </test>
+    <test name="Transfer small text value: broadcast">
+        <classes>
+            <class name="Lisnr.Project.Radius.BroadcastingSmallTextTest"/>
+            <parameter name="wdaLocalPort" value="8100"/>
+        </classes>
+    </test>
+
+</suite>

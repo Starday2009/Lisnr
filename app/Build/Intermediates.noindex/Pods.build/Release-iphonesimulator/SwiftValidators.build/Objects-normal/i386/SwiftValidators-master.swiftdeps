@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "43d0957652f2704fca5e50d3d7d8c577"
+build_time: [1586173933, 634936000]
+inputs:
+  "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/Pods/SwiftValidators/SwiftValidators/Classes/Extensions/Bool+StringConvertible.swift": [9223372036, 854775807]
+  "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/Pods/SwiftValidators/SwiftValidators/Classes/Extensions/Double+StringConvertible.swift": [9223372036, 854775807]
+  "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/Pods/SwiftValidators/SwiftValidators/Classes/Extensions/Float+StringConvertible.swift": [9223372036, 854775807]
+  "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/Pods/SwiftValidators/SwiftValidators/Classes/Helpers/FQDNOptions.swift": [9223372036, 854775807]
+  "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/Pods/SwiftValidators/SwiftValidators/Classes/Extensions/Int+StringConvertible.swift": [9223372036, 854775807]
+  "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/Pods/SwiftValidators/SwiftValidators/Classes/Helpers/ISBN.swift": [9223372036, 854775807]
+  "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/Pods/SwiftValidators/SwiftValidators/Classes/Extensions/NSString+StringConvertible.swift": [9223372036, 854775807]
+  "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/Pods/SwiftValidators/SwiftValidators/Classes/Helpers/Phone.swift": [9223372036, 854775807]
+  "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/Pods/SwiftValidators/SwiftValidators/Classes/Helpers/PostalCode.swift": [9223372036, 854775807]
+  "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/Pods/SwiftValidators/SwiftValidators/Classes/Helpers/Regex.swift": [9223372036, 854775807]
+  "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/Pods/SwiftValidators/SwiftValidators/Classes/Extensions/String+StringConvertible.swift": [9223372036, 854775807]
+  "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/Pods/SwiftValidators/SwiftValidators/Classes/Extensions/String.swift": [9223372036, 854775807]
+  "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/Pods/SwiftValidators/SwiftValidators/Classes/Helpers/StringConvertible.swift": [9223372036, 854775807]
+  "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/Pods/SwiftValidators/SwiftValidators/Classes/Validator.swift": [9223372036, 854775807]
+  "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/Pods/SwiftValidators/SwiftValidators/Classes/Helpers/ValueProvider.swift": [9223372036, 854775807]

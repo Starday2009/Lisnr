@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Transfer medium text value test" parallel="tests" thread-count="2">
+
+    <test name="Assert transfer medium text value: listen">
+        <classes>
+            <class name="Lisnr.Project.Radius.StartListenTest"/>
+            <parameter name="wdaLocalPort" value="8100"/>
+            <parameter name="deviceName" value="iPhone 7"/>
+            <parameter name="platformVersion" value="12.1"/>
+        </classes>
+    </test>
+    <test name="Transfer medium text value: broadcast">
+        <classes>
+            <class name="Lisnr.Project.Radius.BroadcastingMediumTextTest"/>
+            <parameter name="URL" value="http://localhost:4724/wd/hub"/>
+            <parameter name="wdaLocalPort" value="8101"/>
+            <parameter name="deviceName" value="iPhone 8"/>
+            <parameter name="platformVersion" value="12.1"/>
+
+        </classes>
+    </test>
+
+</suite>

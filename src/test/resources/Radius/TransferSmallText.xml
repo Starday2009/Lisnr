@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Transfer small text value test" parallel="methods" thread-count="2">
+    <test name="Assert Transfer small text value">
+        <parameter name="device-name" value="iPhone 7"/>
+        <classes>
+            <class name="Lisnr.Project.Radius.StartListenTest"/>
+        </classes>
+    </test>
+</suite>

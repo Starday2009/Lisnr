@@ -1,0 +1,10 @@
+framework module SwiftValidators {
+  umbrella header "SwiftValidators-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module SwiftValidators.__Swift {
+    exclude header "SwiftValidators-Swift.h"
+}

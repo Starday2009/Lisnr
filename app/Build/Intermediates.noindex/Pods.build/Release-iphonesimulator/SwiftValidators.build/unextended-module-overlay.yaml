@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/app/Build/Products/Release-iphonesimulator/SwiftValidators/SwiftValidators.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/ogorbachenko/projects/lisnr-legacy-sdk-ios-7.0.0 2/samples/iOS-Sample-App/app/Build/Intermediates.noindex/Pods.build/Release-iphonesimulator/SwiftValidators.build/unextended-module.modulemap",
+    }]
+  }]
+}

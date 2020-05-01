@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "805a82a25a400ae6184ae5369c98e9cb"
+build_time: [1587719959, 748501000]
+inputs:
+  "/Users/ogorbachenko/projects/lisnr-point-sdk-ios-1.0.0/samples/Point-Sample/Point-Sample/ClientScreens/HoldYourPhoneSteady/HoldSteady.swift": [1578584900, 0]
+  "/Users/ogorbachenko/projects/lisnr-point-sdk-ios-1.0.0/samples/Point-Sample/Point-Sample/ClientScreens/MicrophonePermissions/MicPermissions.swift": [1578584900, 0]
+  "/Users/ogorbachenko/projects/lisnr-point-sdk-ios-1.0.0/samples/Point-Sample/Point-Sample/ClientScreens/ReadyToPay/ReadyToPay.swift": [1585562809, 801460656]
+  "/Users/ogorbachenko/projects/lisnr-point-sdk-ios-1.0.0/samples/Point-Sample/Point-Sample/AppDelegate.swift": [1578584900, 0]
+  "/Users/ogorbachenko/projects/lisnr-point-sdk-ios-1.0.0/samples/Point-Sample/Point-Sample/ClientScreens/TransactionComplete/TransactionComplete.swift": [1578584900, 0]
+  "/Users/ogorbachenko/projects/lisnr-point-sdk-ios-1.0.0/samples/Point-Sample/Point-Sample/ClientScreens/MoveCloserToTerminal/MoveCloserToTerminal.swift": [1585598680, 152163399]
+  "/Users/ogorbachenko/projects/lisnr-point-sdk-ios-1.0.0/samples/Point-Sample/Point-Sample/Pulsator.swift": [1578584900, 0]
+  "/Users/ogorbachenko/projects/lisnr-point-sdk-ios-1.0.0/samples/Point-Sample/Point-Sample/HostScreens/Beacon/Beacon.swift": [1585598354, 431450218]
+  "/Users/ogorbachenko/projects/lisnr-point-sdk-ios-1.0.0/samples/Point-Sample/Point-Sample/ClientScreens/TransactionCancelled/TransactionCancelled.swift": [1578584900, 0]
+  "/Users/ogorbachenko/projects/lisnr-point-sdk-ios-1.0.0/samples/Point-Sample/Point-Sample/StartScreen/StartScreen.swift": [1578584900, 0]
